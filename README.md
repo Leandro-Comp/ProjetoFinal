@@ -9,3 +9,7 @@ Portfólio oficial desenvolvido para consolidar os fluxos locais e colaborativos 
 - Fluxo de Branches e Pull Requests
 - Gestão de tarefas com Issues
 - HTML5 & CSS3 para GitHub Pages
+
+
+## Autor
+Desenvolvido individualmente por **Leandro**.
